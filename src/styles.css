@@ -1,22 +1,13 @@
 h1 {
-    color: #fff9e1;
     font-size: 175px;
     margin-top: -5px;
     margin-bottom: -45px;
 }
 
-h2 {
-    color: #fff9e1;
-}
-
-h3 {
-    color: #fff9e1;
-}
-
-p {
-    color: #fff9e1;
+h1, h2, h3, p {
+  color: #1A4708;
 }
 
 body {
-    background-color: #1A4708;
+    background-color: #fff9e1;
 }
