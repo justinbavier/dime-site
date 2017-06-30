@@ -7,6 +7,9 @@ class Home extends React.Component {
     render() {
         return (
         <div className="container">
+            <div className="nav-wrapper">
+                <a href="https://dimewebsite.herokuapp.com/" className="brand-logo">Dime</a>
+            </div>
             <div className="row">
                 <div className="col s12">
                     <h1 className="center-align">DIME.</h1>
