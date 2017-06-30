@@ -13,7 +13,7 @@ class Home extends React.Component {
                     <h3 className="center-align">Just Give A Dime</h3>
             <hr />
                 <div>
-                    <h3>Mission Statement</h3>
+                    <h4>Mission Statement</h4>
                     <p>Our goal is to seamlessly incorporate charitable donations
                     into people's daily lives. In doing so we hope to set the new
                     standard for how charitable donations are collected. We
