@@ -7,9 +7,17 @@ class Home extends React.Component {
     render() {
         return (
         <div className="container">
+        <nav>
             <div className="nav-wrapper">
                 <a href="https://dimewebsite.herokuapp.com/" className="brand-logo">Dime</a>
+                <ul id='nav-mobile' className='right hide-on-med-and-down'>
+                    <li><a>About</a></li>
+                    <li><a>FAQs</a></li>
+                    <li><a>Contact</a></li>
+                    <li><a>Log In</a></li>
+                </ul>
             </div>
+        </nav>
             <div className="row">
                 <div className="col s12">
                     <h1 className="center-align">DIME.</h1>
