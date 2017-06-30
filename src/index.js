@@ -12,6 +12,10 @@ class Home extends React.Component {
                     <h1 className="center-align">DIME.</h1>
                     <h3 className="center-align">Just Give A Dime</h3>
             <hr />
+                <div>
+                    <h3>About</h3>
+                    <p>Our goal is to seamlessly incorporate charitable donations into people's daily lives. In doing so we hope to set the new standard for how charitable donations are collected. We believe making substantial charitable donations is an achievable goal through nominal daily contributions that add up over time.</p>
+                </div>
                 </div>
             </div>
         </div>
@@ -23,4 +27,3 @@ ReactDOM.render(
     <Home />,
     document.getElementById('root')
 );
-
